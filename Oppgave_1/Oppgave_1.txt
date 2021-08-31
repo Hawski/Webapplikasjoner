@@ -1,0 +1,32 @@
+Fra teksten...
+Kunden har en visjon om en løsning hvor en administrator kan lage ulike eksamener
+
+ - Som en Administrator, så skalde skal man kunne lage forskjellige eksamener, til forskjellige studenter/emner.
+
+
+
+Fra teksten...
+Hver gang man svarer riktig får man poeng. Hvis man svarer feil, får man ikke trekk i poengsummen.
+
+ - Som en deltager (på eksamen), skal de kunne svare på en oppgave, sånn at de får poeng til å få et resultat som matcher dems kunnskaper.
+
+
+
+Fra teksten...
+Deltakerne som gjennomfører testen, har hele tiden oversikt over hvor mange spørsmål som har blitt besvart og hvor mange det er igjen.
+
+ - Som en deltager, skal det stå hvor mange oppgaver det er i "eksamen", sånn at deltageren(e) kan planlegge hvordan dem selv ligger an.
+
+
+
+Fra teksten...
+Hvis deltakeren ikke har konto fra før må den lage seg en konto med eposten de fikk eksamen tilsendt til og et passord.
+
+ - Som en deltager, skal man kunne ha/opprette en konto, sånn at en deltager kan ta eksamener.
+
+
+
+For teksten...
+For alle gjennomførte og godkjente eksamener får deltakeren en eksamen.
+
+ - Som en deltager, skal man kunne ha tilgang tidligere eksamener, sånn at de har oversikt (om karakter og/eller bestått)
