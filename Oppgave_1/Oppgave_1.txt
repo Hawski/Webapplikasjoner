@@ -1,7 +1,7 @@
 Fra teksten...
 Kunden har en visjon om en løsning hvor en administrator kan lage ulike eksamener
 
- - Som en Administrator, så skalde skal man kunne lage forskjellige eksamener, til forskjellige studenter/emner.
+ - Som en Administrator, så skal man kunne lage forskjellige eksamener, til forskjellige studenter/emner.
 
 
 
