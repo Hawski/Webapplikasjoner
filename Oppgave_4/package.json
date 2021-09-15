@@ -1,0 +1,14 @@
+{
+  "name": "webapp-oppgave-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "dependencies": {
+    "expect": "27.1.0",
+    "nodemon": "2.0.12"
+  },
+  "keywords": []
+}
