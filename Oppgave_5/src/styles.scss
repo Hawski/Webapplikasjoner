@@ -2,3 +2,11 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  background-color: aquamarine;
+  padding: 5%;
+  border: 2px black  solid;
+}

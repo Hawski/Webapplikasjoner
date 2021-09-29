@@ -1,12 +1,12 @@
+import Title from "./Title";
 
-
-const MyComponent = ({title}) => {
+const MyComponent = () => {
     return(
     <>
-        <h1>My First Component</h1>
-        <p>{title}</p>
+        <Title title="It Works"/>
     </>
     );
 } 
 
 export default MyComponent;
+
