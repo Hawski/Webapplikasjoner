@@ -1,0 +1,58 @@
+{
+    "questions 1": [
+       {
+         "title": "Hva er Jest?",
+         "answers": [
+           {"answere": "Er en type javascript kode"},
+           {"answere": "Javascript kode for å teste Json filer"},
+           {"answere": "Noe man trenger for å lasted ned et test rammeverk"},
+           {"answere": "Et rammeverk for test kode", "correct": true}
+         ],
+         "helper": {
+           "text": "Det er et rammerverk for å holde orden på koden, at den gjør det den skal gjøre"
+         }
+       }
+     ],
+     "questions 2": [
+       {
+         "title": "Hva er forskjellen på å skrive 'jest' og 'jest --coverage' i terminalen?",
+         "answers": [
+           {"answere": "De gjøre akkurat det samme"},
+           {"answere": "Det å srkive 'jest' tester kun koden som akkurat har feilet"},
+           {"answere": "De gjøre akkurat det samme, men 'jest --coverage' gir mer informasjkon om testing", "correct": true},
+           {"answere": "Den ene er for NPM og den andre er for Yarn"}
+         ],
+         "helper": {
+           "text": "File | % Stmts | % Branch | % Funcs | % Lines | Un-Lines"
+         }
+       }
+     ],
+     "questions 3": [
+       {
+         "title": "Av mocks, fakes og spies.. hvem er er mest fleksibel?",
+         "answers": [
+           {"answere": "mocks", "correct": true},
+           {"answere": "fakes"},
+           {"answere": "spies"},
+           {"answere": "Alle sammen er like fleksibel"}
+         ],
+         "helper": {
+           "text": "Du finner det på 5.Mocking"
+         }
+       }
+     ],
+     "questions 4": [
+       {
+         "title": "Hva er utgangspunkt enhets teser?",
+         "answers": [
+           {"answere": "Testkode som tester programvarer"},
+           {"answere": "Et annet ord for manuelle tester"},
+           {"answere": "Skal være små/enkle tester", "correct": true},
+           {"answere": "For å teste komponenter"}
+         ],
+         "helper": {
+           "text": "Finner en enkel forkalring på enhets teser i 1.Introduksjon til testing"
+         }
+       }
+     ]
+   }
