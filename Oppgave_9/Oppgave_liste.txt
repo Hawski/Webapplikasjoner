@@ -1,0 +1,26 @@
+Anbefaler å se kursmodulen om API før du går i gang.
+Du står fritt til å bestemme hva du vil lage, men her er noen minimumskrav:
+
+
+
+
+---- Kunne hente en collection (liste) fra en ressurs (endepunkt)
+https://xn--fullstkk-o0a.no/courses/next-intro/06-api-routes/
+
+
+---- Kunne sende noe data til den samme ressursen eller en annen ressurs
+https://xn--fullstkk-o0a.no/courses/next-intro/07-bruke-next/#hvordan-hente-data-fra-api-routes
+
+
+---- Lage en side med passende url, hvor du har løst punktene over. Kunne navigere til denne siden fra forsiden.
+"
+API'et: localhost:3000/api/quiz
+
+Siden hvor ressursene hentes og sendes: localhost:3000/noe-du-bestemmer
+"
+
+Kort og greit: 
+
+- Hente data fra JSON-fil
+- Sende data til samme, eller annen, JSON-fil
+- Lage en side hvor du gjør de to tingene
